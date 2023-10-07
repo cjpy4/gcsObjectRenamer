@@ -1,0 +1,14 @@
+{
+  "name": "gcsobjectrenamer",
+  "version": "1.0.0",
+  "description": "renames objects in Google Cloud Storage buckets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.0.1"
+  }
+}
