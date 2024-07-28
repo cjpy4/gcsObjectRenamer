@@ -31,7 +31,3 @@ async function renameFiles() {
   })
 }
 renameFiles();
-
-function automate() {
-  console.log('focus on the things that matter.');
-}
